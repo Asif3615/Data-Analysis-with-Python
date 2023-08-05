@@ -1,5 +1,5 @@
 # Weather Data Analysis Project
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticssteps.com%2Fblogs%2Fweather-forecasting-how-do-big-data-analytics-magnify-it&psig=AOvVaw3lBuY8meDtChXOuT-gedct&ust=1691335561314000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi8po3qxYADFQAAAAAdAAAAABAE)
+![Alt text](https://www.analyticssteps.com/backend/media/thumbnail/6006173/6278986_1571298721_Weather_Forecoast_Graphics.jpg)
 
 This repository contains the code and resources for my Weather Data Analysis project, where I explored and analyzed weather data using the Pandas library in Python. In this project, I aimed to gain insights into historical weather patterns and trends, demonstrating my data manipulation, analysis, and visualization skills.
 
