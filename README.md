@@ -100,3 +100,44 @@ Feel free to adapt and modify the code to suit your specific needs.
 
 ## Conclusion
 This project underscores my proficiency in data analysis using Pandas and Python. By unraveling key insights from Police data, I showcased my ability to extract valuable information and present it in a comprehensible manner.
+
+# Project 4: Covid-19 Data Analysis
+![Alt text](https://www.jbs.cam.ac.uk/wp-content/uploads/2020/12/2020-brainfood-covid19-economic-impact-883x432-1.jpg)
+## Overview
+Welcome to the Covid-19 Data Analysis project! In this repository, I've explored the global Covid-19 dataset using the Python programming language and the versatile data manipulation library, pandas. The project aims to uncover insights and trends within the pandemic data, shedding light on its impact.
+
+## Table of Contents
+Project Background
+Features
+Getting Started
+Data Source
+Dependencies
+Usage
+Contributing
+
+## Project Background
+The Covid-19 pandemic has profoundly affected our world. This project dives into the pandemic's data, leveraging pandas to conduct exploratory data analysis (EDA). The goal is to reveal patterns, visualize trends, and provide insights that can aid understanding and decision-making during these challenging times.
+
+## Features
+Data loading and preprocessing using pandas.
+Descriptive statistics and summary of key metrics.
+Time series analysis for tracking Covid-19 spread.
+Data visualization through graphs, charts, and plots.
+Comparative analysis across regions and timeframes.
+
+## Dependencies
+This project requires the following dependencies:
+
+Python 3.x
+pandas Library for data manipulation
+seaborn and matplotlib library
+
+## Usage
+Load the Covid-19 dataset using pandas and preprocess the data.
+Utilize pandas functions for exploratory data analysis.
+Visualize data using matplotlib or other visualization libraries.
+Extract insights from the analysis and present your findings.
+Feel free to adapt and modify the code to match your specific analysis goals.
+
+## Conclusion
+This project underscores my proficiency in data analysis using Pandas and Python. By unraveling key insights from Covid-19 data, I showcased my ability to extract valuable information and present it in a comprehensible manner.
