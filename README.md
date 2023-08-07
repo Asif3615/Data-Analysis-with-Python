@@ -141,3 +141,42 @@ Feel free to adapt and modify the code to match your specific analysis goals.
 
 ## Conclusion
 This project underscores my proficiency in data analysis using Pandas and Python. By unraveling key insights from Covid-19 data, I showcased my ability to extract valuable information and present it in a comprehensible manner.
+
+# Project 4: Housing Data Analysis
+![Alt text](https://fox2now.com/wp-content/uploads/sites/14/2022/05/GettyImages-1304677572.jpg?strip=1)
+## Overview
+Welcome to the London Housing Data Analysis project! In this repository, I've explored the housing dataset of London using the Python programming language and the versatile data manipulation library, pandas. The project aims to provide insights into housing trends, price variations, and neighborhood comparisons.
+
+## Table of Contents
+Project Background
+Features
+Data Source
+Dependencies
+Usage
+
+## Project Background
+The housing market is a crucial aspect of urban living. This project dives into London's housing data, leveraging pandas to perform exploratory data analysis (EDA). The objective is to uncover patterns, visualize trends, and provide insights into the dynamic real estate landscape.
+
+## Features
+Data loading and preprocessing using pandas.
+Descriptive statistics and summary of key housing metrics.
+Visualizations depicting housing price trends, neighborhood comparisons, and more.
+Comparative analysis of property prices across different boroughs.
+Time series analysis to identify housing market fluctuations.
+
+Dependencies
+This project requires the following dependencies:
+
+Python 3.x
+pandas Library for data manipulation
+seaborn and matplotlib libraries used.
+
+## Usage
+Load the London housing dataset using pandas and preprocess the data.
+Utilize pandas functions for exploratory data analysis.
+Create visualizations using libraries like matplotlib or seaborn.
+Extract insights from the analysis and present your findings.
+Feel free to adapt the code to match your specific analysis goals.
+
+## Conclusion
+This project underscores my proficiency in data analysis using Pandas and Python. By unraveling key insights from Housing data, I showcased my ability to extract valuable information and present it in a comprehensible manner.
