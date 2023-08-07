@@ -1,5 +1,5 @@
 # Project 1: Weather Data Analysis Project
-![Alt text]([https://www.analyticssteps.com/backend/media/thumbnail/6006173/6278986_1571298721_Weather_Forecoast_Graphics.jpg](https://buxton-weather.co.uk/wp-content/uploads/2022/02/Weather-Forecasting.jpg))
+![Alt text](https://buxton-weather.co.uk/wp-content/uploads/2022/02/Weather-Forecasting.jpg)
 
 This repository contains the code and resources for my Weather Data Analysis project, where I explored and analyzed weather data using the Pandas library in Python. In this project, I aimed to gain insights into historical weather patterns and trends, demonstrating my data manipulation, analysis, and visualization skills.
 
