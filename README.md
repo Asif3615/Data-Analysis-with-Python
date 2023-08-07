@@ -1,6 +1,5 @@
 # Project 1: Weather Data Analysis Project
-![Alt text](https://buxton-weather.co.uk/wp-content/uploads/2022/02/Weather-Forecasting.jpg)
-
+![Alt text]([https://buxton-weather.co.uk/wp-content/uploads/2022/02/Weather-Forecasting.jpg)
 This repository contains the code and resources for my Weather Data Analysis project, where I explored and analyzed weather data using the Pandas library in Python. In this project, I aimed to gain insights into historical weather patterns and trends, demonstrating my data manipulation, analysis, and visualization skills.
 
 ## Table of Contents:
@@ -143,7 +142,7 @@ Feel free to adapt and modify the code to match your specific analysis goals.
 This project underscores my proficiency in data analysis using Pandas and Python. By unraveling key insights from Covid-19 data, I showcased my ability to extract valuable information and present it in a comprehensible manner.
 
 # Project 4: Housing Data Analysis
-![Alt text](https://fox2now.com/wp-content/uploads/sites/14/2022/05/GettyImages-1304677572.jpg?strip=1)
+![Alt text](https://www.rismedia.com/wp-content/uploads/2020/09/big_data_1210303120.jpg)
 ## Overview
 Welcome to the London Housing Data Analysis project! In this repository, I've explored the housing dataset of London using the Python programming language and the versatile data manipulation library, pandas. The project aims to provide insights into housing trends, price variations, and neighborhood comparisons.
 
