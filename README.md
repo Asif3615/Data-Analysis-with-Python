@@ -142,7 +142,7 @@ Feel free to adapt and modify the code to match your specific analysis goals.
 ## Conclusion
 This project underscores my proficiency in data analysis using Pandas and Python. By unraveling key insights from Covid-19 data, I showcased my ability to extract valuable information and present it in a comprehensible manner.
 
-# Project 4: Housing Data Analysis
+# Project 5: Housing Data Analysis
 ![Alt text](https://www.rismedia.com/wp-content/uploads/2020/09/big_data_1210303120.jpg)
 ## Overview
 Welcome to the London Housing Data Analysis project! In this repository, I've explored the housing dataset of London using the Python programming language and the versatile data manipulation library, pandas. The project aims to provide insights into housing trends, price variations, and neighborhood comparisons.
@@ -180,3 +180,44 @@ Feel free to adapt the code to match your specific analysis goals.
 
 ## Conclusion
 This project underscores my proficiency in data analysis using Pandas and Python. By unraveling key insights from Housing data, I showcased my ability to extract valuable information and present it in a comprehensible manner.
+
+# Project 6: Census Data Analysis
+![Alt text](https://blogmedia.testbook.com/blog/wp-content/uploads/2019/04/6.-category-wise-population-census-of-india-2011-cf5d9e9f.jpg)
+## Overview
+Welcome to the Census Data Analysis project! In this repository, I've undertaken a deep exploration of census data using the Python programming language and the powerful data manipulation library, pandas. The project aims to extract meaningful insights and trends from census data to inform decision-making.
+
+## Table of Contents
+Project Background
+Features
+Data Source
+Dependencies
+Usage
+
+## Project Background
+Census data is a goldmine of information that can shape policies and strategies. This project employs pandas to process and analyze census data, uncovering demographic trends, socioeconomic indicators, and other critical insights.
+
+## Features
+Data preprocessing and cleaning using pandas.
+Descriptive statistics and summary of key census metrics.
+Visualization of demographic patterns and trends.
+In-depth analysis of socioeconomic factors and their correlations.
+Identifying insights that can guide informed decision-making.
+
+## Data Source
+The dataset used for this project originates from [Data Source Name/Link], providing comprehensive census data. The data encompasses demographic information, socioeconomic indicators, and geographic attributes.
+
+## Dependencies
+This project requires the following dependencies:
+
+Python 3.x
+pandas Library for data manipulation
+You can install the necessary packages using the provided requirements.txt file.
+
+## Usage
+Load the census dataset using pandas and preprocess the data.
+Utilize pandas functions for exploratory data analysis.
+Create insightful visualizations using libraries like matplotlib or seaborn.
+Extract meaningful insights from the analysis and present your findings.
+
+## Conclusion
+This project underscores my proficiency in data analysis using Pandas and Python. By unraveling key insights from Census data, I showcased my ability to extract valuable information and present it in a comprehensible manner.
